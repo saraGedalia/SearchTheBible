@@ -1,0 +1,3 @@
+D:\C#\SearchTheBible\publish\DTO.dll
+D:\C#\SearchTheBible\publish\DTO.deps.json
+D:\C#\SearchTheBible\publish\DTO.pdb

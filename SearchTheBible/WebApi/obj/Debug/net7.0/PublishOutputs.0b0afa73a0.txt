@@ -1,0 +1,12 @@
+D:\C#\SearchTheBible\publish\WebApi.exe
+D:\C#\SearchTheBible\publish\appsettings.Development.json
+D:\C#\SearchTheBible\publish\appsettings.json
+D:\C#\SearchTheBible\publish\WebApi.dll
+D:\C#\SearchTheBible\publish\WebApi.deps.json
+D:\C#\SearchTheBible\publish\WebApi.runtimeconfig.json
+D:\C#\SearchTheBible\publish\WebApi.pdb
+D:\C#\SearchTheBible\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\C#\SearchTheBible\publish\Microsoft.OpenApi.dll
+D:\C#\SearchTheBible\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\C#\SearchTheBible\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C#\SearchTheBible\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

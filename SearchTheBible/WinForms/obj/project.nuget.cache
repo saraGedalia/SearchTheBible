@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/eRaJBAyJ/4tRYN03A3NdhnFfSh5iWBpe4D5DJjRtoqbi85y6u3toQAlUfpiNJy+LgtaC5nD9qmE5TQdPdUZw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ProjectSearchTheBible\\SearchTheBible\\WinForms\\WinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

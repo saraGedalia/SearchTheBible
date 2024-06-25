@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHWrfqxJ6i2WvpzKgvyvBv0IBAewKB9HsibfDeRIEn5HZEIldgjE1acK0I8C712cN18cv+ZZHSUwiPAZUmX8fA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ProjectSearchTheBible\\SearchTheBible\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
